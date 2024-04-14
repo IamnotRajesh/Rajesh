@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajesh.</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 
-- 🔭 I’m currently working on **Online Ecommerce Site.**
+- 🔭 I’m currently working on **Disaster Prediction Application.**
 
-- 🌱 I’m currently learning **Javascript Frmaeworks**
+- 🌱 I’m currently learning **Data-Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/IamnotRajesh](https://github.com/IamnotRajesh)
 
-- 💬 Ask me about **PHP, JAVA, C,**
+- 💬 Ask me about **PHP, JAVA, C, Python, Dotnet, Data-Science**
 
 - 📫 How to reach me **rajesadk720@gmail.com**
 
